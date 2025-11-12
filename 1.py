@@ -16,4 +16,6 @@ class A:
         self.get_data()
     
 Sasha = A("Sasha", 19, 1)
+Dima = A("Dima", 20, 100)
+
 
