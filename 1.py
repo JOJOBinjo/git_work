@@ -17,5 +17,6 @@ class A:
     
 Sasha = A("Sasha", 19, 1)
 Dima = A("Dima", 20, 100)
+Misha = A("Misha")
 
 
